@@ -11,20 +11,20 @@ I know there are better ways to access blocked sites but i wanted to make this j
 
 ## Screenshots
 Start
-![Start](bin/Start.png)
+![Start](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Start.png?raw=true)
 
 Main Menu
-![Main Menu](bin/Main Menu.png)
+![Main Menu](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Main%20Menu.png?raw=true)
 
 Search
-![Search](bin/Search.png)
+![Search](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Search.png?raw=true)
 
 Proxy Disabled
-![Proxy Disabled](bin/Proxy Disabled.png)
+![Proxy Disabled](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Proxy%20Disabled.png?raw=true)
 
 Presets
 ![Presets](bin/Presets.png)
 
 # Join my Discord server!
 It would be very pogchamp if you joined
-[Discord](https://discord.gg/pqAFVCKZhz)
+[Discord](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Presets.png?raw=true)
