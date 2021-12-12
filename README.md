@@ -9,6 +9,14 @@ I know there are better ways to access blocked sites but i wanted to make this j
 - Right now, I have it so the program will open a link with Chrome even if its not your default browser. This is because on the school pc's at my school, chrome would never be the default browser and it was just a pain to set it to your default every time you logged on. So i made it use chrome even if ie or whatever was your default browser. I plan to make a 2nd version which uses your default browser.
 - Other shit I'll think of later.
 
+# HOW TO DOWNLOAD
+
+First you want to go to the releases page
+![Releases](https://i.imgur.com/wti618a.png)
+
+Then download the exe
+![exe download](https://i.imgur.com/9pyWMF5.png)
+
 ## Screenshots
 Start
 ![Start](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Start.png?raw=true)
