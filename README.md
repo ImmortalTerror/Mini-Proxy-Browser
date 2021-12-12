@@ -23,8 +23,8 @@ Proxy Disabled
 ![Proxy Disabled](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Proxy%20Disabled.png?raw=true)
 
 Presets
-![Presets](bin/Presets.png)
+![Presets](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Presets.png?raw=true)
 
 # Join my Discord server!
 It would be very pogchamp if you joined
-[Discord](https://github.com/ImmortalTerror/Mini-Proxy-Browser/blob/main/Images/Presets.png?raw=true)
+[Discord](https://discord.gg/pqAFVCKZhz)
