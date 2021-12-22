@@ -112,7 +112,7 @@ title Miniproxy Browser
 cls
 echo Would you like to %_bGreen%%_fBlack%search with google%_RESET%, %_fBlack%%_bYellow%enter a url%_RESET% or goto a %_fBlack%%_bBWhite%preset site%_RESET%?
 echo.
-bin\cmdmenusel.exe f870 "Search" "Url" "Presets" "Exit"
+cmdmenusel.exe f870 "Search" "Url" "Presets" "Exit"
 if %ERRORLEVEL% NEQ 4 goto %ERRORLEVEL%
 exit
 
@@ -223,7 +223,7 @@ cls
 title Miniproxy Browser ^|^| Presets
 echo Choose what site you want to access
 echo.
-bin\cmdmenusel.exe f870 "AGFY - Free games" "Itch - Free games" "Sourceforge - Free and open source software" "Go back"
+cmdmenusel.exe f870 "AGFY - Free games" "Itch - Free games" "Sourceforge - Free and open source software" "Go back"
 
 if "%ERRORLEVEL%"=="1" (
 	cls
